@@ -12,21 +12,21 @@ A polished, battery-included Next.js + TypeScript blog starter that is ready for
 ## Getting started
 
 1. Install dependencies
-
+   
    ```bash
    npm install
    ```
 
 2. Start the development server
-
+   
    ```bash
    npm run dev
    ```
-
+   
    The site will be available at [http://localhost:3000](http://localhost:3000).
 
 3. Create production build
-
+   
    ```bash
    npm run build
    npm start
